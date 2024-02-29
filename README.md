@@ -1,3 +1,4 @@
+![](./gsheet.svg)
 
 # Blockscope-Highlighter
 
